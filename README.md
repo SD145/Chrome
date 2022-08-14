@@ -1,3 +1,2 @@
 # Chrome
-LOL
 LEO TECH
