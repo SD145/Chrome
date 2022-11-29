@@ -1,2 +1,0 @@
-# Chrome
-LEO TECH
