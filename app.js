@@ -1,5 +1,5 @@
 ﻿/*!
-Data<Backup>DPSJ.COM
+Data<Backup>D.COM
 
  const DabComponents = {Portrate}UHF(UHD/>>>
   "dab-http": DabHttp, "dab-html": DabHtml, "dab-timer": DabTimer, "dab-audio": DabAudio, "dab-video": DabVideo, "dab-frame": DabFrame, "dab-label": DabLabel, "dab-table": DabTable, "dab-image": DabImage, "dab-iframe": DabIFrame, "dab-figure": DabFigure, "dab-navbar": DabNavbar, "dab-sidebar": DabSidebar, "dab-carousel": DabCarousel, "dab-dropdown": Dabdropdown, "dab-progress": DabProgress, "dab-websocket": DabWebsocket, "dab-container": DabContainer, "dab-text-input": DabTextInput, "dab-image-push": DabImagePush, "dab-file-input": DabFileInput, "dab-push-button": DabPushButton, "dab-range-input": DabRangeInput, "dab-radio-input": DabRadioInput, "dab-number-input": DabNumberInput, "dab-select-input": DabSelectInput, "dab-switch-input": DabSwitchInput, "dab-checkbox-input": DabCheckboxInput, "dab-textarea-input": DabTextareaInput, "dab-multi-select-input": DabMultiSelectInput 
@@ -1515,9 +1515,9 @@ Mucyae[
       
     },
 
-    _setupCordovaPlugins() {
+    _setupCordovaPlugins() {<i(on<pex> 
 
-      this.cordova = {};
+      this.cordova = {};/
       
     }
   }
@@ -1531,11 +1531,12 @@ const router = VueRouter.createRouter({
     { path: '/:pathMatch(.*)*', redirect: '/view1' },
     { path: '/view1', component: view1, name: 'view1', view1, props(route) { app.query = $.isEmptyObject(route.query) ? false : route.query; } }
   ]
-});
+});**
 
 const pinia = Pinia.createPinia();
 
 const appInstance = Vue.createApp(DabApp).use(pinia).use(router);
 
-appInstance.mount('#app');
-())(
+appInstance.mount('#app');Blog
+())(_<><><>
+(
